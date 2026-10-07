@@ -17,6 +17,7 @@ https://leetcode.com/u/shraddhass/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ https://leetcode.com/u/shraddhass/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@ https://leetcode.com/u/shraddhass/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
