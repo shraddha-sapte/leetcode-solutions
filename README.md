@@ -15,9 +15,11 @@ https://leetcode.com/u/shraddhass/
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
