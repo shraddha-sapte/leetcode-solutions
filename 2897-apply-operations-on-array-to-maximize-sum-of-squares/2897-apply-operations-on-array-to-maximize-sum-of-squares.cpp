@@ -2,14 +2,16 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums, int k) {
-        long long ans = 0;
+        const long long MOD = 1e9 + 7;
         int cnt[31] = {0};
-        int mod = 1e9 + 7;
+        long long ans = 0;
 
-        for (int x : nums)
-            for (int i = 0; i < 31; i++)
-                if (x & (1 << i))
+        for (int num : nums) {
+            for (int i = 0; i < 31; i++) {
+                if ((num >> i) & 1)
                     cnt[i]++;
+            }
+        }
 
         while (k--) {
             long long x = 0;
@@ -21,7 +23,7 @@ public:
                 }
             }
 
-            ans = (ans + x * x) % mod;
+            ans = (ans + x * x) % MOD;
         }
 
         return ans;
