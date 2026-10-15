@@ -12,6 +12,7 @@ https://leetcode.com/u/shraddhass/
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ https://leetcode.com/u/shraddhass/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,12 @@ https://leetcode.com/u/shraddhass/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
