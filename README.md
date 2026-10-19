@@ -11,6 +11,7 @@ https://leetcode.com/u/shraddhass/
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -68,6 +69,7 @@ https://leetcode.com/u/shraddhass/
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ https://leetcode.com/u/shraddhass/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
