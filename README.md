@@ -31,6 +31,7 @@ https://leetcode.com/u/shraddhass/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ https://leetcode.com/u/shraddhass/
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Depth-First Search
 |  |
