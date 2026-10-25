@@ -11,6 +11,7 @@ https://leetcode.com/u/shraddhass/
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -62,6 +63,7 @@ https://leetcode.com/u/shraddhass/
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -132,4 +135,12 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
