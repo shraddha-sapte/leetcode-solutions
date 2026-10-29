@@ -17,6 +17,7 @@ https://leetcode.com/u/shraddhass/
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ https://leetcode.com/u/shraddhass/
 | [1021-remove-outermost-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +61,7 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +96,7 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +123,7 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -129,14 +134,17 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
