@@ -19,6 +19,7 @@ https://leetcode.com/u/shraddhass/
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -134,6 +135,7 @@ https://leetcode.com/u/shraddhass/
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
 |  |
 | ------- |
