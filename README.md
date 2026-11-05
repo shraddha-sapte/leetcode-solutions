@@ -14,6 +14,7 @@ https://leetcode.com/u/shraddhass/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -30,6 +31,7 @@ https://leetcode.com/u/shraddhass/
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ https://leetcode.com/u/shraddhass/
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Backtracking
@@ -115,6 +118,7 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 |  |
