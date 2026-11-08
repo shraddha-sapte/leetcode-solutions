@@ -14,6 +14,7 @@ https://leetcode.com/u/shraddhass/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
@@ -76,6 +77,7 @@ https://leetcode.com/u/shraddhass/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -153,6 +156,7 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [0100-same-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -168,10 +172,12 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
 | ------- |
