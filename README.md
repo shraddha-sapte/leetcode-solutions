@@ -60,6 +60,7 @@ https://leetcode.com/u/shraddhass/
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -153,6 +154,7 @@ https://leetcode.com/u/shraddhass/
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
