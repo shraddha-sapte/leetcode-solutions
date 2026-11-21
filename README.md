@@ -9,6 +9,7 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0137-single-number-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -155,6 +156,7 @@ https://leetcode.com/u/shraddhass/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
