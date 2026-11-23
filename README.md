@@ -12,6 +12,7 @@ https://leetcode.com/u/shraddhass/
 | [0137-single-number-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0414-third-maximum-number](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -102,6 +103,7 @@ https://leetcode.com/u/shraddhass/
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0414-third-maximum-number](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
