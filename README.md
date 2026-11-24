@@ -27,6 +27,7 @@ https://leetcode.com/u/shraddhass/
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -152,6 +153,7 @@ https://leetcode.com/u/shraddhass/
 | [0209-minimum-size-subarray-sum](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -173,6 +175,7 @@ https://leetcode.com/u/shraddhass/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shraddha-sapte/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -237,4 +240,12 @@ https://leetcode.com/u/shraddhass/
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shraddha-sapte/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
